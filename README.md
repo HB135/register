@@ -17,5 +17,5 @@ You will need to create a database and a table (in this case the database is cal
 
 ## Sites used
 
-[Form validations](https://www.w3schools.com/PHP/php_form_complete.asp)
-[Password hash](https://www.php.net/manual/en/function.password-hash.php)
+- [Form validations](https://www.w3schools.com/PHP/php_form_complete.asp)
+- [Password hash](https://www.php.net/manual/en/function.password-hash.php)
