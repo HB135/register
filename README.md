@@ -14,3 +14,8 @@ You will need to create a database and a table (in this case the database is cal
 ===
 
 <img src="/readme-pics/database.png" alt="The database"/>
+
+## Sites used
+
+[Form validations](https://www.w3schools.com/PHP/php_form_complete.asp)
+[Password hash](https://www.php.net/manual/en/function.password-hash.php)
