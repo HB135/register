@@ -9,8 +9,6 @@ You will need to create a database and a table (in this case the database is cal
 
 ## Screenshots
 
-===
-
 <img src="/readme-pics/webpage.png" alt="The web page"/>
 
 ===
